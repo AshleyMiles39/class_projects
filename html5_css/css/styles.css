@@ -58,6 +58,11 @@ main img {
     border-radius: 20px;
 }
 
+main h3 {
+    color: black;
+    text-align: center;
+}
+
 footer {
     padding: 40px 0;
     text-align: center;
